@@ -14,7 +14,7 @@ We highly appreciate your participation in this challenge, building NFT Marketpl
 - Challenge 2 [ERC-721](./Challenge2.md)
 - Challenge 3 [ERC-1155](./Challenge3.md)
 - Challenge 4 [Marketplace](./Challenge4.md)
-- Challenge 5 [Lobster](https://github.com/input-output-hk/lobster-challenge): since the lobster challenge has been released for one month, and there might be some solutions that can be found online. Thus, the original one needs to be modified to make it fair. Instead, this challenge requires using prime numbers (from 1 to 1000)
+- Challenge 5 [Lobster](https://github.com/input-output-hk/lobster-challenge): since the lobster challenge has been released for one month, and there might be some solutions that can be found online. Thus, the original one needs to be modified to make it fair. Instead, this challenge requires using prime numbers (from 1 to 10000)
 - Challenge 6: to encourage your innovation, you are free to choose your topic, to design and to implement your logic.
 
 For the submission, please pick at least one challenge.
