@@ -1,4 +1,4 @@
-## Challenge 3: Simple Market (Optional)
+## Challenge 4: Simple Market (Optional)
 
 This challenge requires that a candidate has already completed either Challenge 1+2 or Challenge 1+3 as prerequisites to submit this challenge. 
 
